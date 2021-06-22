@@ -7,6 +7,6 @@ bodyparts:
         action: /bodyparts/action
     visualization: 
         topic: /bodyparts/visualization
-        activated: False
+        activated: True
     gpu: 0
     model: 50
